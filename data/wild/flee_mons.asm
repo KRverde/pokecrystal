@@ -5,7 +5,6 @@ SometimesFleeMons:
 	db MAGNEMITE
 	db GRIMER
 	db TANGELA
-	db MR__MIME
 	db EEVEE
 	db PORYGON
 	db DRATINI
@@ -18,10 +17,6 @@ SometimesFleeMons:
 	db -1
 
 OftenFleeMons:
-	db CUBONE
-	db ARTICUNO
-	db ZAPDOS
-	db MOLTRES
 	db QUAGSIRE
 	db DELIBIRD
 	db PHANPY
